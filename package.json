@@ -1,0 +1,23 @@
+{
+  "name": "hack",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000H\u0000a\u0000c\u0000k\u0000\r\u0000 \u0000#\u0000 \u0000H\u0000a\u0000c\u0000k\u0000\r\u0000 \u0000",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuanticPotatoes/Hack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuanticPotatoes/Hack/issues"
+  },
+  "homepage": "https://github.com/QuanticPotatoes/Hack#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "socket.io": "^1.7.3"
+  }
+}
